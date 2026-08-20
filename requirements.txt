@@ -1,0 +1,6 @@
+streamlit
+pypdf
+python-dotenv
+google-genai
+pandas
+scikit-learn
